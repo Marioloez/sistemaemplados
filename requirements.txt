@@ -1,0 +1,3 @@
+pip install flask
+pip install flask-MySQL
+pip install Jinja2
